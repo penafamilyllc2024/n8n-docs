@@ -1,2 +1,0 @@
-mkdocs-literate-nav==0.4.1
-mkdocs-macros-plugin==0.7.0
